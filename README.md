@@ -1,4 +1,4 @@
-#DIJP Changelog
+# DIJP Changelog
 
 ### 25/04/2022
 * `[Corregit] Quan reiniciabes el comptador no es guardaba a la base de dades`
