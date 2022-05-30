@@ -1,6 +1,6 @@
 # DIJP Changelog
 ### 23/05/2022
-* ` [Corregit]` Al tenir el comptador a 0 i donar-li -10 si anaves a l'altre pantalla i tornaves el comptador estaba a -10`
+*  [Corregit]` Al tenir el comptador a 0 i donar-li -10 si anaves a l'altre pantalla i tornaves el comptador estaba a -10`
 
 ### 2/05/2022
 * ` [Corregit]` Al entrar i sortir de la aplicació 3 vegades al obrir l'aplicació la pantalla es quedava en blanc`
